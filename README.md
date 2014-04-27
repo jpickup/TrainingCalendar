@@ -1,0 +1,4 @@
+TrainingCalendar
+================
+
+Training calendar generator
